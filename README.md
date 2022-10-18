@@ -1,0 +1,5 @@
+- 👋 Oi, eu sou @kauakrebs;
+- 👀 Estou interessado em aprender mais linguagens de programação;
+- 🌱 Estou aprendendo **Scratch** e **JavaScript**;
+- 💞️ Estou procurando colaborar em minhas aulas;
+- 📫 Como chegar até mim, meu email para contato _**kaua.krebs@escola.pr.gov.br**_;
